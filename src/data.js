@@ -26,5 +26,12 @@ export default [
 		price: 40.00,
 		image:
 			'https://images-na.ssl-images-amazon.com/images/I/61uUPXbhMxL._SX397_BO1,204,203,200_.jpg'
+	},
+	{
+		id: 5,
+		title: 'The Laws of Human Nature',
+		price: 25.95,
+		image:
+			'https://lh3.googleusercontent.com/T2N_KLdKnyYd1Tv60B4XxTbIzh2SVlHl55nwo3pVwfLSY945iVJmlwbTl6N6b77WW3bI1vvXd5qBAw=s200-rw'
 	}
 ];
